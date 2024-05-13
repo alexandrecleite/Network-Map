@@ -10,9 +10,13 @@ Install Graphviz on your machine.
 ## 2
 Get the zip file and extract it, click on the green code button on the top,
 If your via CLI use: 
-git clone https://github.com/startdias2/Network-Map.git
+git clone https://github.com/alexandrecleite/Network-Map//Network-Map.git
 
 ## 3
+Use netmap_v2.sh pcapfile.pcap to generate CSV file and goto step 5.
+
+or...
+
 Open your PCAP with Wireshark, 
 Go to:
 Statistics  >  Conversations  >  Select the "IPv4" bar > Click on "Copy" and select "CSV".
