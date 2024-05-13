@@ -12,7 +12,7 @@ Get the zip file and extract it, click on the green code button on the top,
 If your via CLI use: git clone https://github.com/startdias2/Network-Map.git
 
 ## 3
-Use "netmap_v2.sh pcapfile.pcap" (without quotes) to generate CSV file and goto step 5.
+Use "netmap_v2.sh pcapfile.pcap" (without quotes)
 
 or...
 
