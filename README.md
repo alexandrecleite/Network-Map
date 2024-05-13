@@ -13,7 +13,7 @@ If your via CLI use:
 git clone https://github.com/alexandrecleite/Network-Map//Network-Map.git
 
 ## 3
-Use netmap_v2.sh pcapfile.pcap to generate CSV file and goto step 5.
+Use "netmap_v2.sh pcapfile.pcap" (without quotes) to generate CSV file and goto step 5.
 
 or...
 
